@@ -1,3 +1,5 @@
+package Topics;
+
 public class Logical_14 {
     public static void main(String[] args) {
         boolean a=true;

@@ -1,3 +1,5 @@
+package Topics;
+
 public class Resulting_data_types_10 {
     public static void main(String[] args) {
 //        int a=8+4;

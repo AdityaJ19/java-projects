@@ -1,3 +1,5 @@
+package Topics;
+
 import java.util.Scanner;
 public class Switch_15 {
     public static void main(String[] args) {

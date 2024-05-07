@@ -1,3 +1,5 @@
+package Exercises;
+
 import java.util.Scanner;
 public class febonacchi {
     public static void main(String[] args) {
