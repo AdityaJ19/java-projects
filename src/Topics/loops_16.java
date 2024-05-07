@@ -1,3 +1,5 @@
+package Topics;
+
 public class loops_16 {
     public static void main(String[] args) {
 //        while loop=it first checks the conditon if it's true and it prints if not it throw error

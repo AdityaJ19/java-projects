@@ -1,3 +1,5 @@
+package Topics;
+
 import java.util.Scanner;
 public class Strings_Methods_12 {
     public static void main(String[] args) {
