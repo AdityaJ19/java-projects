@@ -1,4 +1,4 @@
-package Exercises.Programs;
+package Exercises;
 
 public class ReverseString {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Topics;
+package Arrays;
 
 import java.util.Scanner;
 
