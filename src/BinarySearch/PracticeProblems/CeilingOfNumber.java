@@ -1,4 +1,4 @@
-package BinarySearch;
+package BinarySearch.PracticeProblems;
 
 public class CeilingOfNumber {
     public static void main(String[] args) {
