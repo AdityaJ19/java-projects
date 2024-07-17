@@ -2,7 +2,7 @@ package Stringbuilder;
 
 public class Palindrome {
     public static void main(String[] args) {
-        String str = "abcddcba";
+        String str = "madam";
         System.out.println(isPalindrone(str));
     }
     static boolean isPalindrone(String str){
